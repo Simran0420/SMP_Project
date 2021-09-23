@@ -1,0 +1,8 @@
+[Wed Sep 22 18:48:03.095006 2021] [mpm_winnt:notice] [pid 8972:tid 792] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Wed Sep 22 18:48:03.095006 2021] [mpm_winnt:notice] [pid 8972:tid 792] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Wed Sep 22 18:48:03.095006 2021] [core:notice] [pid 8972:tid 792] AH00094: Command line: 'C:\\Users\\aditya\\Desktop\\web server/apache2/bin/httpd_usbwv8.exe -d C:/Users/aditya/Desktop/web server/apache2'
+[Wed Sep 22 18:48:03.105568 2021] [mpm_winnt:notice] [pid 8972:tid 792] AH00418: Parent: Created child process 11768
+[Wed Sep 22 18:48:04.553167 2021] [mpm_winnt:notice] [pid 11768:tid 828] AH00354: Child: Starting 64 worker threads.
+[Wed Sep 22 20:59:16.760150 2021] [:error] [pid 11768:tid 1308] [client 127.0.0.1:51656] PHP Parse error:  syntax error, unexpected '{' in C:\\Users\\aditya\\Desktop\\web server\\root\\connect.php on line 36, referer: http://localhost:8080/inner-page.html
+[Wed Sep 22 20:59:31.698205 2021] [:error] [pid 11768:tid 1308] [client 127.0.0.1:51668] PHP Parse error:  syntax error, unexpected '{' in C:\\Users\\aditya\\Desktop\\web server\\root\\connect.php on line 36, referer: http://localhost:8080/inner-page.html
+[Wed Sep 22 21:00:16.883753 2021] [:error] [pid 11768:tid 1316] [client 127.0.0.1:53186] PHP Parse error:  syntax error, unexpected '{' in C:\\Users\\aditya\\Desktop\\web server\\root\\connect.php on line 36, referer: http://localhost:8080/inner-page.html
